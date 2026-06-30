@@ -1,4 +1,4 @@
-# Modeling Elephant Presence Using Environmental Covariates in the Welgevonden Game Reserve
+# Modeling Elephant Presence Using Environmental Covariates in the Welgevonden Game Reserve 
 **Team name:** speedy_ducks_of_Alisa_and_Tomer
 
 **Names:** Alisa Janssen, Jurre Bakker, Tomer Peled, Sophia Staheli
